@@ -42,7 +42,11 @@ Este projeto foi desenvolvido utilizando a linguagem Python e a biblioteca Pygam
 
 ---
 
-## video
+## 🎥 Demonstração da Simulação
 
 ![Demonstração da simulação](./simulacao.gif)
+
+---
+
+📽️ Veja o vídeo completo [aqui](https://drive.google.com/file/d/1hjmoIjGgWqBwmu1uLFk_YhYxjw8wYe73/view?usp=sharing)
 
