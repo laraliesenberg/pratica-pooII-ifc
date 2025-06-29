@@ -41,3 +41,8 @@ Trabalho desenvolvido para a disciplina de **Programação Orientada a Objetos I
 Este projeto foi desenvolvido utilizando a linguagem Python e a biblioteca Pygame para a criação da interface gráfica e simulação.
 
 ---
+
+## video
+
+![Demonstração da simulação](./simulacao.gif)
+
